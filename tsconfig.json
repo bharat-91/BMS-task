@@ -10,7 +10,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true                          
   },
-  "include": ["src/**/*"],
+  "include": ["sc/**/*"],
   "exclude": ["src/dist"]
   
 }
